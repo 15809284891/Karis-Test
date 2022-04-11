@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1112C389-CAE1-45E7-A615-5E63620B245A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1112C389-CAE1-45E7-A615-5E63620B245A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>KVO-Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>KVO-Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build KVO-Test</string>
+			<key>timeStartedRecording</key>
+			<real>671339403.34103203</real>
+			<key>timeStoppedRecording</key>
+			<real>671339403.74407303</real>
+			<key>title</key>
+			<string>Build KVO-Test</string>
+			<key>uniqueIdentifier</key>
+			<string>1112C389-CAE1-45E7-A615-5E63620B245A</string>
+		</dict>
+		<key>412B70A4-CFC7-4439-9789-A60D42B14B7A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>412B70A4-CFC7-4439-9789-A60D42B14B7A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>KVO-Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>KVO-Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build KVO-Test</string>
+			<key>timeStartedRecording</key>
+			<real>671339341.71193504</real>
+			<key>timeStoppedRecording</key>
+			<real>671339343.01481402</real>
+			<key>title</key>
+			<string>Build KVO-Test</string>
+			<key>uniqueIdentifier</key>
+			<string>412B70A4-CFC7-4439-9789-A60D42B14B7A</string>
+		</dict>
+		<key>4A731588-42D8-4CD1-9E81-CBAB21801BA8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4A731588-42D8-4CD1-9E81-CBAB21801BA8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>KVO-Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>KVO-Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build KVO-Test</string>
+			<key>timeStartedRecording</key>
+			<real>671339445.71767604</real>
+			<key>timeStoppedRecording</key>
+			<real>671339446.126436</real>
+			<key>title</key>
+			<string>Build KVO-Test</string>
+			<key>uniqueIdentifier</key>
+			<string>4A731588-42D8-4CD1-9E81-CBAB21801BA8</string>
+		</dict>
+		<key>67E1762C-4738-4C0A-A6EC-1CBC26E2FF49</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67E1762C-4738-4C0A-A6EC-1CBC26E2FF49.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>KVO-Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>KVO-Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build KVO-Test</string>
+			<key>timeStartedRecording</key>
+			<real>671338693.93781698</real>
+			<key>timeStoppedRecording</key>
+			<real>671338700.33160806</real>
+			<key>title</key>
+			<string>Build KVO-Test</string>
+			<key>uniqueIdentifier</key>
+			<string>67E1762C-4738-4C0A-A6EC-1CBC26E2FF49</string>
+		</dict>
+		<key>67E45AE9-1A1D-4F58-A0AA-EC0F7D8A8447</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67E45AE9-1A1D-4F58-A0AA-EC0F7D8A8447.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>KVO-Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>KVO-Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build KVO-Test</string>
+			<key>timeStartedRecording</key>
+			<real>671339233.18525398</real>
+			<key>timeStoppedRecording</key>
+			<real>671339233.41243899</real>
+			<key>title</key>
+			<string>Build KVO-Test</string>
+			<key>uniqueIdentifier</key>
+			<string>67E45AE9-1A1D-4F58-A0AA-EC0F7D8A8447</string>
+		</dict>
+		<key>70857520-52E5-4EE0-BBA0-5ECEA8716556</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>70857520-52E5-4EE0-BBA0-5ECEA8716556.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>KVO-Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>KVO-Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build KVO-Test</string>
+			<key>timeStartedRecording</key>
+			<real>671339619.20020199</real>
+			<key>timeStoppedRecording</key>
+			<real>671339619.62835705</real>
+			<key>title</key>
+			<string>Build KVO-Test</string>
+			<key>uniqueIdentifier</key>
+			<string>70857520-52E5-4EE0-BBA0-5ECEA8716556</string>
+		</dict>
+		<key>771B30D2-CD81-4A39-B02A-09CF44013347</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>771B30D2-CD81-4A39-B02A-09CF44013347.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>KVO-Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>KVO-Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build KVO-Test</string>
+			<key>timeStartedRecording</key>
+			<real>671339453.75547099</real>
+			<key>timeStoppedRecording</key>
+			<real>671339453.79594803</real>
+			<key>title</key>
+			<string>Build KVO-Test</string>
+			<key>uniqueIdentifier</key>
+			<string>771B30D2-CD81-4A39-B02A-09CF44013347</string>
+		</dict>
+		<key>D7F9B15C-C000-400D-9BC6-8111BD163322</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D7F9B15C-C000-400D-9BC6-8111BD163322.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>KVO-Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>KVO-Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build KVO-Test</string>
+			<key>timeStartedRecording</key>
+			<real>671339373.26736701</real>
+			<key>timeStoppedRecording</key>
+			<real>671339373.42988098</real>
+			<key>title</key>
+			<string>Build KVO-Test</string>
+			<key>uniqueIdentifier</key>
+			<string>D7F9B15C-C000-400D-9BC6-8111BD163322</string>
+		</dict>
+		<key>E8EF978E-C2EC-4FBB-B1B6-86894C55F94C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8EF978E-C2EC-4FBB-B1B6-86894C55F94C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>KVO-Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>KVO-Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build KVO-Test</string>
+			<key>timeStartedRecording</key>
+			<real>671339635.11453199</real>
+			<key>timeStoppedRecording</key>
+			<real>671339635.18096197</real>
+			<key>title</key>
+			<string>Build KVO-Test</string>
+			<key>uniqueIdentifier</key>
+			<string>E8EF978E-C2EC-4FBB-B1B6-86894C55F94C</string>
+		</dict>
+		<key>FECA2C80-F58E-47B0-84B4-A09CA4348A8E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FECA2C80-F58E-47B0-84B4-A09CA4348A8E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>KVO-Test project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>KVO-Test</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build KVO-Test</string>
+			<key>timeStartedRecording</key>
+			<real>671339543.10855997</real>
+			<key>timeStoppedRecording</key>
+			<real>671339552.19188297</real>
+			<key>title</key>
+			<string>Build KVO-Test</string>
+			<key>uniqueIdentifier</key>
+			<string>FECA2C80-F58E-47B0-84B4-A09CA4348A8E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

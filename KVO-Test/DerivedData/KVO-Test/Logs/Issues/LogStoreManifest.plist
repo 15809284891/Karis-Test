@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>FAB183DA-C64A-4235-A22C-C88D5C8163FD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>FAB183DA-C64A-4235-A22C-C88D5C8163FD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>KVO-Test-hjtkadgxtiytizfzwnkouytqvmfx</string>
+			<key>timeStartedRecording</key>
+			<real>671339619.27107</real>
+			<key>timeStoppedRecording</key>
+			<real>671339619.61995304</real>
+			<key>title</key>
+			<string>Build target KVO-Test</string>
+			<key>uniqueIdentifier</key>
+			<string>FAB183DA-C64A-4235-A22C-C88D5C8163FD</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
